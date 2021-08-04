@@ -1,0 +1,59 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Raleway', sans-serif;
+    background-color: black;
+}
+
+#textoIguana,
+#imagenIguana {
+    border: 1px solid red;
+    width: 40%;
+    display: inline-block;
+}
+
+.section-principal {
+    padding: 60px;
+}
+
+.section-texto,
+.descripcion_section_iguana {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.section-texto {
+    width: 50%;
+}
+
+.descripcion_section_iguana {
+    width: 35%;
+    padding-left: 130px;
+}
+
+.centrado {
+    margin: 0 auto;
+    width: 75%;
+    border: 1px solid red;
+}
+
+header h1 {
+    font-size: 52px;
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+}
+
+.header-iguana img {
+    width: 100%;
+}
+
+h1,
+h2,
+p {
+    color: white;
+}
+
+.imagen-centrada {
+    width: 400px;
+}
